@@ -1,8 +1,13 @@
+<img src="https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/01da43b5-0d1a-4800-afd0-9ccafff73e0b" alt="Screenshot_1694509493" width="300" height="auto">
 
-![Screenshot_1694509731](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/edb6a956-3e67-4e3e-9441-6dc7f9899350)
-![Screenshot_1694509679](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/d86ce5c0-6972-4e07-94ed-cf65af7e193d)
-![Screenshot_1694509597](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/8e581280-3de1-4dfe-af97-5cb3c9348715)
-![Screenshot_1694509584](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/40a985ce-9ac9-42ed-9ee7-3d5f32cf8d5d)
-![Screenshot_1694509570](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/7290e3f3-2a4e-4092-b560-02d8f42b14c4)
-![Screenshot_1694509493](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/94776952-bb41-4e68-9615-011896154370)
-![Screenshot_1694510118](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/32bc3f8d-158d-41cf-8317-8b34443d347a)
+<img src="https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/ffa58d3d-ac58-4e2d-953d-8004bafa96bf" alt="Screenshot_1694509570" width="300" height="auto">
+
+<img src="https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/80b1336e-8296-4174-8f9a-e7b11632ef92" alt="Screenshot_1694509584" width="300" height="auto">
+
+<img src="https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/8dc5e476-78db-4e9d-ae8c-8dbbd306c7b9" alt="Screenshot_1694509597" width="300" height="auto">
+
+<img src="https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/863b0e5c-8945-4f1f-9369-f7389a712284" alt="Screenshot_1694509679" width="300" height="auto">
+
+<img src="https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/400133ca-7ed4-4603-99f6-458488583ee3" alt="Screenshot_1694509731" width="300" height="auto">
+
+<img src="https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/14108c35-543b-4ed8-b61e-aaf688de8595" alt="Screenshot_1694510118" width="300" height="auto">
