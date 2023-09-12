@@ -1,0 +1,7 @@
+![Screenshot_1694510118](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/0e61d6a6-0c9b-4046-8184-4e6e080f669f)
+![Screenshot_1694509731](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/4677944e-5c80-4de1-bcd6-542ad9dd3255)
+![Screenshot_1694509679](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/244e5396-7021-4d15-ba09-2f6734fbc83a)
+![Screenshot_1694509597](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/9515df3b-32d9-405a-a15c-eddea808c29e)
+![Screenshot_1694509584](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/e028f6b9-ffa8-4f75-b5d0-de4daa04badd)
+![Screenshot_1694509570](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/e391ec16-c497-48c6-bd9b-cc875450c697)
+![Screenshot_1694509493](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/ac3f8768-c445-4283-a5a5-07c6902a3bc7)
