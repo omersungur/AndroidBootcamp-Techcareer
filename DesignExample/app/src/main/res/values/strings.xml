@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Design Example</string>
+    <string name="login">Authentication</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="log_in">Log in</string>
+</resources>

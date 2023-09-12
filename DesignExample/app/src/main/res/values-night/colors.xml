@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="ScreenTitle">#FF7700</color>
+    <color name="backgroundColor">#4B504E</color>
+    <color name="titleBarColor">#EF6C00</color>
+    <color name="editTextColor">#FFFFFF</color>
+
+</resources>

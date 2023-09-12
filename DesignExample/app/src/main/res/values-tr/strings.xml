@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tasarım Örnek</string>
+    <string name="login">Kimlik Doğrulama</string>
+    <string name="create_account">HESAP OLUŞTUR</string>
+    <string name="name">İsim</string>
+    <string name="email">E-posta</string>
+    <string name="password">Şifre</string>
+    <string name="sign_up">KAYIT OL</string>
+    <string name="already_have_an_account">Zaten bir hesabın var mı?</string>
+    <string name="log_in">Giriş Yap</string>
+</resources>
