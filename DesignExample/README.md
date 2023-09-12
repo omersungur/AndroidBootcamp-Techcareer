@@ -1,6 +1,6 @@
 
 <img src="https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/a4629a5e-4be9-417e-80d3-6276e372d3d0" alt="Screenshot_1694509493" width="300">
-![Screenshot_1694510118](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/c64169af-ea28-4eb4-9fc6-60ef1676e05a)
+
 <img src="https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/891064e8-f2cd-463b-aa18-1e32346d92a4" alt="Screenshot_1694509570" width="300">
 
 <img src="https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/98e10148-3fec-4d20-8eb6-71f3513c17bd" alt="Screenshot_1694509584" width="300">
