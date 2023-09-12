@@ -1,16 +1,7 @@
-
-<img src="https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/a4629a5e-4be9-417e-80d3-6276e372d3d0" alt="Screenshot_1694509493" width="300">
-
-<img src="https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/891064e8-f2cd-463b-aa18-1e32346d92a4" alt="Screenshot_1694509570" width="300">
-
-<img src="https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/98e10148-3fec-4d20-8eb6-71f3513c17bd" alt="Screenshot_1694509584" width="300">
-
-<img src="https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/dbccb4ed-e542-4179-8d1b-73728857b712" alt="Screenshot_1694509597" width="300">
-
-<img src="https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/0c7faf1c-354e-4fb5-af12-a4408b27c168" alt="Screenshot_1694509679" width="300">
-
-<img src="https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/37c995e8-4a55-4f24-a3ba-e9fcbaf31894" alt="Screenshot_1694509731" width="300">
-
-<img src="https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/c64169af-ea28-4eb4-9fc6-60ef1676e05a" alt="Screenshot_1694510118" width="300">
-
-
+![Screenshot_1694510118](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/3210bff4-0a25-480f-b6c7-f5a32bc789cc)
+![Screenshot_1694509731](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/0b79aec4-d040-43a7-ab00-9772a23fd583)
+![Screenshot_1694509679](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/37379f25-b940-451b-9262-abd43ebbdb31)
+![Screenshot_1694509597](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/96a7903d-13d6-4d95-99f3-8a25b83a8214)
+![Screenshot_1694509584](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/efa03e15-a8c1-4636-b5de-dd954ef7a898)
+![Screenshot_1694509570](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/e0f20cbe-06d2-45dd-9f3a-99da23482bb5)
+![Screenshot_1694509493](https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/80884c29-6f7f-47c8-a3af-a17aa428818b)
