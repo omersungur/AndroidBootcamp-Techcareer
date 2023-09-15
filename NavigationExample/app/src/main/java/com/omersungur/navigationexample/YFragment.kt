@@ -38,7 +38,7 @@ class YFragment : Fragment() {
                 override fun handleOnBackPressed() {
                     Snackbar.make(
                         binding.textViewYFragment,
-                        "Do you want to go main page?",
+                        "Do you want to go to main page?",
                         Snackbar.LENGTH_INDEFINITE
                     )
                         .setAction("YES") {
