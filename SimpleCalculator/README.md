@@ -1,6 +1,6 @@
 <h2> This is a simple calculator program that can only do addition. </h2>
 
--If you directly press the + button, you will see a screen like this.
+-If you directly press the + button, you will see a screen like this. </br>
 -If the last statement of the operation is +, it will be ignored.
 
 <img src="https://github.com/omersungur/AndroidBootcamp-Techcareer/assets/70448538/e3d71850-7fc8-4ba8-9da1-ed9e2d8acf54" alt="Screenshot_1695130702" width="300" height="auto">
