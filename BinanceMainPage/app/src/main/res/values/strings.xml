@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BinanceMainPage</string>
+
+    <string name="total_price">%s</string>
+</resources>

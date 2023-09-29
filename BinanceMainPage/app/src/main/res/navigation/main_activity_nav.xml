@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_activity_nav"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.omersungur.binancemainpage.ui.fragment.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/futuresFragment"
+        android:name="com.omersungur.binancemainpage.ui.fragment.FuturesFragment"
+        android:label="fragment_futures"
+        tools:layout="@layout/fragment_futures" />
+    <fragment
+        android:id="@+id/marketsFragment"
+        android:name="com.omersungur.binancemainpage.ui.fragment.MarketsFragment"
+        android:label="fragment_markets"
+        tools:layout="@layout/fragment_markets" />
+    <fragment
+        android:id="@+id/tradesFragment"
+        android:name="com.omersungur.binancemainpage.ui.fragment.TradesFragment"
+        android:label="fragment_trades"
+        tools:layout="@layout/fragment_trades" />
+    <fragment
+        android:id="@+id/walletsFragment"
+        android:name="com.omersungur.binancemainpage.ui.fragment.WalletsFragment"
+        android:label="fragment_wallets"
+        tools:layout="@layout/fragment_wallets" />
+</navigation>

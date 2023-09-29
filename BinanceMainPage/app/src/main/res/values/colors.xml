@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="menuYellow">#FFC107</color>
+    <color name="yellow">#FFCA28</color>
+    <color name="bg">#1E272C</color>
+    <color name="bgcard">#303F47</color>
+    <color name="gray">#BDBDBD</color>
+
+    <color name="red">#D32F2F</color>
+    <color name="green">#43A047</color>
+
+    <color name="active_text_color">#FF0000</color>
+</resources>
